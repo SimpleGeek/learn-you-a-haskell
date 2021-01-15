@@ -2,6 +2,6 @@
 
 Code written while following the online book "Learn you a haskell"
 
-Currently here: http://learnyouahaskell.com/types-and-typeclasses
+Currently here: http://learnyouahaskell.com/syntax-in-functions
 
-Next section is: Typeclasses 101
+Next section is: Let it be
